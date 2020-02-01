@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb4cb778-7119-42bf-820e-fa44778be91b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/bootstrap/02-test/fonts/icon/Read Me.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/bootstrap/02-test/fonts/icon/demo-files/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/bootstrap/02-test/fonts/icon/demo-files/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/bootstrap/02-test/fonts/icon/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/bootstrap/02-test/fonts/icon/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/bootstrap/02-test/fonts/icon/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/bootstrap/02-test/fonts/icon/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/bootstrap/02-test/fonts/icon/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/bootstrap/02-test/fonts/icon/selection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/bootstrap/02-test/fonts/icon/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/test/bootstrap/02-test/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/ad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/airbnb-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/bd_logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/bloomberg-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/ewm_xzh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/facebook-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/ft_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/google-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/gxq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/i_r6_c6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/ibm-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/icons_0_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/index_top_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/iphoneX.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/iphoneX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/iphoneX2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/lk_favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/lk_logo_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/lk_logo_sm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/lnj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/log-pwd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/macBook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/ok_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/ok_no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/paypal-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/pkulogo_grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/reg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/slide_01_2000x410.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/slide_01_640x340.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/slide_02_2000x410.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/slide_02_640x340.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/slide_03_2000x410.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/slide_03_640x340.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/success.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/swift-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/team.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/walmart-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/weixin-h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/wzs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/xinlang-h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/imgs/yjh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/bootstrap/02-test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/bootstrap/02-test/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/lib/Bootstrap/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/lib/Bootstrap/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/lib/Bootstrap/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/lib/Bootstrap/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/lib/Bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/lib/Bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/lib/Bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/lib/Bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/lib/Bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/lib/Bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/lib/Bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/lib/Bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/lib/Bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/lib/Bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/lib/Bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/lib/Bootstrap/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/lib/html5shiv3.7.3/html5shiv.mim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/lib/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/02-test/lib/respond.1.4..2/respond.min.1.4.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/lib/Bootstrap/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/lib/Bootstrap/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/lib/Bootstrap/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/lib/Bootstrap/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/lib/Bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/lib/Bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/lib/Bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/lib/Bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/lib/Bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/lib/Bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/lib/Bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/lib/Bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/lib/Bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/lib/Bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/lib/Bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/lib/Bootstrap/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/lib/html5shiv3.7.3/html5shiv.mim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/lib/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bootstrap/03-test/lib/respond.1.4..2/respond.min.1.4.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/jQuery2/53-？/66-qq音乐/66-qq音乐.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/jQuery2/53-？/66-qq音乐/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/jQuery2/53-？/66-qq音乐/ceshi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/vue/23-？/27-$emit自定义事件.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/vue/23-？/27-$emit自定义事件.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../软工/视频/JavaScript/02-从零玩转JavaScript进阶/代码/js进阶-网页特效/Day5/02-旋转木马/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/jQuery2/53-？/66-qq音乐/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        <option value="$PROJECT_DIR$/.idea/webstrom.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="258" />
+    <option name="y" value="45" />
+    <option name="width" value="1308" />
+    <option name="height" value="1014" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webstrom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webstrom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webstrom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webstrom" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webstrom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webstrom" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="JS-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webstrom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webstrom" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="JS-2" type="462c0819:PsiDirectoryNode" />
+              <item name="js-139-？" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webstrom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webstrom" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="JS-2" type="462c0819:PsiDirectoryNode" />
+              <item name="js-139-？" type="462c0819:PsiDirectoryNode" />
+              <item name="150-156瀑布流布局" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb4cb778-7119-42bf-820e-fa44778be91b" name="Default Changelist" comment="" />
+      <created>1580370930581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580370930581</updated>
+      <workItem from="1580370932068" duration="1419000" />
+      <workItem from="1580376435011" duration="109000" />
+      <workItem from="1580456222369" duration="400000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1928000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/jQuery2/53-？/66-qq音乐/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/vue/23-？/31-京东M站/shopCart.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/JS-2/js-176-？/195-音乐导航.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/JS-2/js-176-？/196-无限轮播图.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="52" lean-forward="true" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/JS-2/js-176-？/176-无限轮播图.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/JS-2/js-176-？/191-楼层效果.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/JS-2/js-176-？/189-联动动画.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/JS-2/js-139-？/150-156瀑布流布局/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="65" lean-forward="true" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../软工/视频/JavaScript/02-从零玩转JavaScript进阶/代码/js进阶-网页特效/Day5/02-旋转木马/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
